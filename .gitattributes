@@ -1,1 +1,2 @@
 word2vec_model_all filter=lfs diff=lfs merge=lfs -text
+bigram_model_all filter=lfs diff=lfs merge=lfs -text
